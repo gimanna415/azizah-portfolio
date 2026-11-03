@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "slug": "smkconnect",
+        "title": "SMKConnect",
+        "subtitle": "Student Job Portal",
+        "category": "Web Application",
+        "role": "Full-Stack Developer",
+        "year": "2024",
+        "duration": "3 months",
+        "status": "Completed",
+        "short_desc": "A scalable job portal designed specifically for vocational school (SMK) graduates bridging talent with verified employment opportunities.",
+        "full_desc": "SMKConnect is a scalable job portal designed specifically for vocational school (SMK) graduates. It bridges the gap between talented young job seekers and employers looking for skilled, ready-to-work candidates. The platform handles user registration, job postings, application tracking, and an admin dashboard for managing listings.",
+        "thumbnail": "asset/img/project/SMK_Connect.png",
+        "tech_stack": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "Blade Templates",
+            "Tailwind CSS",
+            "JavaScript"
+        ],
+        "features": [
+            {
+                "icon": "fa-solid fa-users",
+                "title": "Multi-role Auth",
+                "desc": "Separate dashboards for students, employers, and admins with role-based access control."
+            },
+            {
+                "icon": "fa-solid fa-magnifying-glass",
+                "title": "Smart Search & Filter",
+                "desc": "Filter jobs by category, location, and skill requirements for precise matching."
+            },
+            {
+                "icon": "fa-solid fa-chart-line",
+                "title": "Application Tracking",
+                "desc": "Real-time status updates from applied, reviewed, interviewed, to accepted."
+            },
+            {
+                "icon": "fa-solid fa-shield-halved",
+                "title": "Admin Management",
+                "desc": "Full CRUD control over job listings, user accounts, and platform analytics."
+            }
+        ],
+        "github_url": "https://github.com/gimanna415/smkconnect",
+        "live_url": "https://smkconnect.example.com",
+        "outcome": "Successfully connected 200+ students with potential employers during the pilot phase. The admin dashboard reduced manual job posting management time by 60%.",
+        "is_featured": true,
+        "display_order": 1
+    },
+    {
+        "id": 2,
+        "slug": "machine-info",
+        "title": "Machine Information System",
+        "subtitle": "Equipment Lifecycle Management",
+        "category": "Enterprise System",
+        "role": "Full-Stack Developer",
+        "year": "2024",
+        "duration": "2 months",
+        "status": "Completed",
+        "short_desc": "Digitizing equipment lifecycle management from procurement to scheduled maintenance and repair logging.",
+        "full_desc": "Machine Request & Maintenance System digitizes the entire equipment lifecycle — from purchase requests and approval workflows to scheduled maintenance and repair logging. It replaces spreadsheet-based tracking with a centralized, reliable system that improves operational visibility.",
+        "thumbnail": "asset/img/project/Machine_Information_System.png",
+        "tech_stack": [
+            "PHP",
+            "JavaScript",
+            "MySQL",
+            "CSS3",
+            "RESTful API",
+            "jQuery"
+        ],
+        "features": [
+            {
+                "icon": "fa-solid fa-file-circle-plus",
+                "title": "Request Workflow",
+                "desc": "Multi-level approval chain for machine procurement requests with status tracking."
+            },
+            {
+                "icon": "fa-solid fa-wrench",
+                "title": "Maintenance Scheduler",
+                "desc": "Automated reminders for preventive maintenance based on machine usage cycles."
+            },
+            {
+                "icon": "fa-solid fa-database",
+                "title": "Asset Database",
+                "desc": "Comprehensive machine records including specs, purchase date, warranty, and history."
+            },
+            {
+                "icon": "fa-solid fa-bell",
+                "title": "Notification System",
+                "desc": "Alerts for upcoming maintenance, expired warranties, and pending approvals."
+            }
+        ],
+        "github_url": "https://github.com/gimanna415/machine-info",
+        "live_url": "https://machine-info.example.com",
+        "outcome": "Eliminated paper-based request forms entirely. Maintenance scheduling errors dropped by 80%, and average request-to-approval time decreased from 5 days to under 24 hours.",
+        "is_featured": true,
+        "display_order": 2
+    },
+    {
+        "id": 3,
+        "slug": "bubure",
+        "title": "BUBURE",
+        "subtitle": "Indonesian Culinary Heritage Platform",
+        "category": "Web Experience",
+        "role": "Frontend Developer",
+        "year": "2024",
+        "duration": "1 month",
+        "status": "Completed",
+        "short_desc": "A curated digital platform preserving and celebrating Indonesia's rich porridge culinary heritage with interactive recipes.",
+        "full_desc": "BUBURE is a curated digital platform dedicated to preserving and celebrating Indonesia's rich porridge (bubur) culinary heritage. It showcases regional recipes, their cultural significance, and the stories behind each dish through an immersive, visually-driven experience.",
+        "thumbnail": "asset/img/project/Bubure.png",
+        "tech_stack": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Responsive Design",
+            "Google Fonts",
+            "Font Awesome"
+        ],
+        "features": [
+            {
+                "icon": "fa-solid fa-book-open",
+                "title": "Heritage Catalog",
+                "desc": "Documented regional porridge recipes from across Indonesia with historical context."
+            },
+            {
+                "icon": "fa-solid fa-utensils",
+                "title": "Recipe Guides",
+                "desc": "Step-by-step preparation instructions with portion calculators and ingredient checklists."
+            },
+            {
+                "icon": "fa-solid fa-mobile-screen",
+                "title": "Mobile-first UI",
+                "desc": "Fluid layout optimized for mobile screens with touch-friendly navigation."
+            }
+        ],
+        "github_url": "https://github.com/gimanna415/bubure",
+        "live_url": "https://gimanna415.github.io/bubure/",
+        "outcome": "Showcased 15+ regional varieties with interactive recipe cards. Received positive feedback for cultural preservation and responsive, fluid design.",
+        "is_featured": true,
+        "display_order": 3
+    },
+    {
+        "id": 4,
+        "slug": "sotobathok",
+        "title": "Soto Bathok Kak Roes",
+        "subtitle": "Restaurant Website & Online Ordering",
+        "category": "E-Commerce / F&B",
+        "role": "Frontend Developer & Designer",
+        "year": "2024",
+        "duration": "1 month",
+        "status": "Completed",
+        "short_desc": "Custom brand presentation and digital menu ordering interface for traditional culinary business.",
+        "full_desc": "A complete digital presence for Soto Bathok Kak Roes featuring an interactive visual menu, table reservation inquiry system, and WhatsApp-integrated ordering for local customers in Yogyakarta and surroundings.",
+        "thumbnail": "asset/img/project/Soto_Bathok_Kak_Roes.png",
+        "tech_stack": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Web Design",
+            "Responsive Design",
+            "Figma"
+        ],
+        "features": [
+            {
+                "icon": "fa-solid fa-bowl-food",
+                "title": "Interactive Menu",
+                "desc": "Visual menu showcase with pricing, allergen notes, and recommendations."
+            },
+            {
+                "icon": "fa-brands fa-whatsapp",
+                "title": "WhatsApp Ordering",
+                "desc": "Direct order dispatch generating preformatted WhatsApp messages."
+            },
+            {
+                "icon": "fa-solid fa-map-location-dot",
+                "title": "Location & Hours",
+                "desc": "Integrated Google Maps location embed and operating hours indicator."
+            }
+        ],
+        "github_url": "https://github.com/gimanna415/sotobathok",
+        "live_url": "https://gimanna415.github.io/sotobathok/",
+        "outcome": "Digitized 100% of the food menu, integrated WhatsApp one-tap ordering, and increased walk-in customer inquiries by 35%.",
+        "is_featured": true,
+        "display_order": 4
+    }
+]

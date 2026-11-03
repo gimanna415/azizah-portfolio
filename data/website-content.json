@@ -1,0 +1,67 @@
+{
+    "profile": {
+        "name": "sirlyn",
+        "title": "Software Engineer & Full-Stack Developer",
+        "tagline": "Architecting clean, scalable systems with PHP, Laravel & Modern JavaScript",
+        "email": "nurazizahzahrah.work@gmail.com",
+        "phone": "+62 812-3456-7890",
+        "location": "Jakarta / West Java, Indonesia",
+        "career_objective": "To leverage full-stack engineering skills, cross-functional operational experience, and rigorous problem-solving to architect impactful digital solutions for forward-thinking organizations.",
+        "bio_short": "Software Engineer with expertise in PHP, Laravel, JavaScript, MySQL, and cross-functional business operations.",
+        "bio_full": "I build software that bridges human need and technical precision. Having hands-on vocational engineering education paired with multi-departmental corporate internship experience, I approach software not just as code, but as operational infrastructure that drives real-world outcomes.",
+        "github_url": "https://github.com/gimanna415",
+        "linkedin_url": "https://linkedin.com/in/nurazizah-zahrah",
+        "portfolio_url": "https://gimanna415.github.io/azizah-portfolio/"
+    },
+    "hero": {
+        "eyebrow": "Software Engineer & Builder",
+        "headline": "Engineering systems with purpose, precision & longevity.",
+        "lead": "I design and build robust web applications with PHP, Laravel, and modern JavaScript u2014 turning complex business processes into intuitive, elegant digital infrastructure.",
+        "cta_primary_text": "Explore Work",
+        "cta_primary_url": "#work",
+        "cta_secondary_text": "Get In Touch",
+        "cta_secondary_url": "#contact"
+    },
+    "stats": [
+        {
+            "number": "4+",
+            "label": "Production projects shipped",
+            "dim": "Evidence of execution"
+        },
+        {
+            "number": "12+",
+            "label": "Technologies in active proficiency",
+            "dim": "Full-stack capabilities"
+        },
+        {
+            "number": "4",
+            "label": "Departments rotated during internship",
+            "dim": "Cross-functional acumen"
+        },
+        {
+            "number": "100%",
+            "label": "Commitment to clean, scalable code",
+            "dim": "Engineering integrity"
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is your primary technology stack?",
+            "answer": "My core stack is PHP with the Laravel framework for the backend, complemented by MySQL for database design and management. On the frontend, I build with semantic HTML5, modern CSS3 (including Tailwind CSS), and JavaScript (ES6+)."
+        },
+        {
+            "question": "Are you available for full-time employment or internships?",
+            "answer": "Yes! I am actively open to junior software engineer, backend developer, and full-stack developer opportunities where I can contribute to mission-critical systems and continue growing alongside experienced engineering mentors."
+        },
+        {
+            "question": "What distinguishes your approach from other junior developers?",
+            "answer": "Beyond code, I have real multi-departmental corporate internship experience across HR, Accounting, Warehouse, and Production. This gives me a natural business empathy: I understand the human workflows behind data structures."
+        }
+    ],
+    "contact": {
+        "headline": "Let's build something remarkable together.",
+        "email": "nurazizahzahrah.work@gmail.com",
+        "location": "Jakarta, Indonesia",
+        "availability_badge": "Available for New Opportunities"
+    }
+}

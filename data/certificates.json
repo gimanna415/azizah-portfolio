@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Junior Web Programmer",
+        "issuer": "BNSP (Badan Nasional Sertifikasi Profesi)",
+        "issue_date": "2024-08-15",
+        "expiration_date": "2027-08-15",
+        "credential_id": "BNSP-JWP-2024-91823",
+        "credential_url": "https://bnsp.go.id/verify/BNSP-JWP-2024-91823",
+        "certificate_image": null,
+        "category": "Professional Certification",
+        "description": "National competency certification covering software requirements analysis, algorithmic coding in PHP & JavaScript, database normalization, and structured software testing."
+    },
+    {
+        "id": 2,
+        "name": "Web Development Fundamentals",
+        "issuer": "SoloLearn",
+        "issue_date": "2023-11-20",
+        "expiration_date": null,
+        "credential_id": "CT-SOLO-WEB-4412",
+        "credential_url": "https://sololearn.com/certificates/CT-SOLO-WEB-4412",
+        "certificate_image": null,
+        "category": "Course Certificate",
+        "description": "Comprehensive mastery of semantic HTML5 markup, responsive CSS3 styling, and client-side JavaScript DOM manipulation."
+    },
+    {
+        "id": 3,
+        "name": "Database Management with MySQL",
+        "issuer": "Dicoding Academy",
+        "issue_date": "2024-03-10",
+        "expiration_date": null,
+        "credential_id": "DICODING-DB-7761",
+        "credential_url": "https://dicoding.com/certificates/DICODING-DB-7761",
+        "certificate_image": null,
+        "category": "Course Certificate",
+        "description": "Relational database design, 3NF normalization, indexing, joins, transactions, and performance query optimization."
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "site_name": "Nurazizah Zahrah — Software Engineer Portfolio",
+    "repo_local_path": "D:/coding/Laravel/azizah-portfolio/azizah-portfolio",
+    "repo_remote_url": "https://github.com/gimanna415/azizah-portfolio.git",
+    "repo_branch": "main",
+    "export_target_path": "C:/laragon/www/azizah-portfolio/data",
+    "accent_color": "#0c0c0c",
+    "bg_color": "#f3f3f1",
+    "seo_title": "Nurazizah Zahrah — Full Profile | Software Engineer",
+    "seo_description": "Detailed profile of Nurazizah Zahrah — Software Engineer with expertise in PHP, Laravel, JavaScript, MySQL, and cross-functional business experience.",
+    "seo_author": "Nurazizah Zahrah",
+    "seo_og_image": "asset/img/profile.jpg"
+}

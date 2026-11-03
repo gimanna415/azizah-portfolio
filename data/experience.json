@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "company": "PT Galvindo Ampuh",
+        "role": "Rotational Intern — Multi-Department",
+        "employment_type": "Internship",
+        "start_date": "2024-01-01",
+        "end_date": "2024-06-30",
+        "is_current": false,
+        "description": "Comprehensive 6-month rotational internship across 4 core business departments, gaining deep understanding of real-world corporate workflows and operational databases.",
+        "responsibilities": [
+            "Human Resources Administration: Managed employee documentation systems, supported onboarding workflows, and workforce planning.",
+            "Accounting & Finance: Processed financial data entries, assisted invoice reconciliation, and verified transactional ledger records.",
+            "Warehouse & Inventory Control: Managed stock verification cycles, tracked goods dispatch, and optimized record keeping.",
+            "Production Operations: Monitored assembly metrics, documented line incident reports, and assisted shift handover coordination."
+        ],
+        "technologies": [
+            "Spreadsheets",
+            "Enterprise ERP",
+            "MySQL",
+            "Data Entry",
+            "Process Optimization"
+        ]
+    }
+]

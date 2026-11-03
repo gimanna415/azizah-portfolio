@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Software Engineering Student Club (RPL Community)",
+        "role": "Head of Technical Workshops",
+        "category": "Community",
+        "start_date": "2023-08-01",
+        "end_date": null,
+        "description": "Led peer mentoring sessions in Git, PHP, and web development fundamentals for 40+ junior vocational students.",
+        "responsibilities": "Organized weekly coding meetups, created coding challenge problems, and managed community GitHub repositories."
+    }
+]
