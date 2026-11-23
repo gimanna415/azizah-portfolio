@@ -1,0 +1,27 @@
+# Public Deployment Repository (.gitignore)
+# ONLY built frontend assets, sanitized cms-integration/, public JSON, and assets belong here.
+
+# NEVER allow secrets, backend PHP, or database files
+.env
+.env.*
+*.php
+*.sql
+*.sqlite
+*.db
+*.pem
+*.key
+*.log
+*.tmp
+*.bak
+*.map
+
+# Exclude internal CMS/storage folders if accidentally copied
+zizahCMS/
+storage/
+documentation/
+cms-integration.manifest.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+node_modules/

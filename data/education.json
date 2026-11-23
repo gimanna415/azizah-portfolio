@@ -1,12 +1,1 @@
-[
-    {
-        "institution": "SMK Bina Mandiri Multimedia",
-        "major": "Software Engineering (Rekayasa Perangkat Lunak)",
-        "level": "Vocational High School",
-        "start_year": 2023,
-        "graduation_year": 2026,
-        "grade": "3.85 / 4.00",
-        "achievements": "Specialized in full-stack web application development, database architecture, and agile software development lifecycle.",
-        "description": "A focused vocational program that prioritized hands-on software development over pure theory — built real-world web applications with PHP, Laravel, MySQL, and modern JavaScript."
-    }
-]
+[{"id":1,"institution":"SMK Bina Mandiri Multimedia","qualification":"Vocational High School Diploma","major":"Software Engineering (Rekayasa Perangkat Lunak)","level":"Vocational High School","start_year":2023,"graduation_year":2026,"currently_studying":1,"grade":"3.85 / 4.00","achievements":"Specialized in Full-Stack Web Development, Algorithm Design, and Database Management","description":"Comprehensive 3-year technical vocational curriculum covering software lifecycle, object-oriented programming in PHP, relational database design with MySQL, web interfaces, and modern engineering practices."}]

@@ -1,11 +1,1 @@
-[
-    {
-        "name": "Software Engineering Student Club (RPL Community)",
-        "role": "Head of Technical Workshops",
-        "category": "Community",
-        "start_date": "2023-08-01",
-        "end_date": null,
-        "description": "Led peer mentoring sessions in Git, PHP, and web development fundamentals for 40+ junior vocational students.",
-        "responsibilities": "Organized weekly coding meetups, created coding challenge problems, and managed community GitHub repositories."
-    }
-]
+[{"id":1,"name":"Software Engineering Student Club (RPL Community)","role":"Head of Technical Workshops","category":"Community","start_date":"2023-08-01","end_date":null,"is_current":1,"description":"Led peer mentoring sessions in Git, PHP, and web development fundamentals for 40+ junior vocational students.","responsibilities":["Organized bi-weekly coding workshops on PHP and Web Fundamentals","Mentored 40+ junior students on Git branching workflows and project setup"],"achievements":["Successfully delivered 8 technical workshops with 95% satisfaction rating"]},{"id":2,"name":"Student Council (OSIS)","role":"Media & Technology Division Member","category":"Student Organization","start_date":"2023-09-01","end_date":"2024-09-01","is_current":0,"description":"Managed digital media coverage, event presentations, and IT equipment for major school assemblies.","responsibilities":["Operated multimedia streaming and sound control during institutional events","Designed promotional visual assets for extracurricular clubs"],"achievements":["Supported 6 major school assemblies without technical disruption"]}]
